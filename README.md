@@ -48,3 +48,7 @@ Postgres, Redis, FastAPI (но иногда aiohttp).
 clang, lldb.
 
 mypy и TypeScript.
+
+### Контакты
+t.me/ne_bknn
+github.com/ne-bknn
