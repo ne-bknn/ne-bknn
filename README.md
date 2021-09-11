@@ -23,6 +23,7 @@
 - Кубок CTF 2020, 3 место
 - AtomSkills (Информационная безопасность), 1 место
 - [RuCTFE 2020](https://ctftime.org/event/1178), 10 место
+- [YauzaCTF 2021](https://ctftime.org/event/1417/), 1 место
 
 ### Посмотреть, послушать и почитать меня
 Один раз я записал [подкаст](https://vk.com/wall-125553684_7937), пару раз прочитал [лекции](https://www.youtube.com/watch?v=UDRPsZRCjwM) на кружке по ИБ. Иногда пишу [слова](https://rb.ru/young/stop-cyberattacks/), но чаще всего [телеграммы](https://t.me/cryptoanal).
