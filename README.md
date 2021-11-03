@@ -51,5 +51,5 @@ clang, lldb.
 mypy и TypeScript.
 
 ### Контакты
-[Telegram](t.me/ne_bknn)
-[Github](github.com/ne-bknn)
+[Telegram](https://t.me/ne_bknn)
+[Github](https://github.com/ne-bknn)
