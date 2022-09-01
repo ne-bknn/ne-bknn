@@ -4,7 +4,7 @@
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=000000&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://t.me/ne-bknn" target="_blank">
+<a href="https://t.me/ne_bknn" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?color=000000&style=for-the-badge&logo=telegram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
