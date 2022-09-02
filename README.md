@@ -46,6 +46,15 @@
 </td>
 <td>Intern</td>
 </tr>
+  
+<tr>
+<td>
+
+[![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=bash&link=https://github.com/ne-bknn)](https://github.com/ne-bknn)
+
+</td>
+<td>I hate it but I have to</td>
+</tr>
 </tbody>
 </table>
 
