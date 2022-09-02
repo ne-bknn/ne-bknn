@@ -65,7 +65,7 @@
 
 #### Студенческие и корпоративные соревнования:
 - :unamused: Кубок CTF 2020, 3 место
-- :atom: AtomSkills (Информационная безопасность), 1 место
+- :atom: AtomSkills (Информационная безопасность) 2021, 1 место
 - :tired_face: [RuCTFE 2020](https://ctftime.org/event/1178), 10 место
 - :triumph: [YauzaCTF 2021](https://ctftime.org/event/1417/), 1 место
 
