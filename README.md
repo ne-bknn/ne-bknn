@@ -101,8 +101,4 @@
 
 ### Религиозные убеждения
 
-[![Arch](https://img.shields.io/badge/-Arch%20Linux-black?style=for-the-badge&logo=archlinux&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![Zsh](https://img.shields.io/badge/-Zsh-black?style=for-the-badge&logo=zsh&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![NeoVim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim&link=https://github.com/ne-bknn)](https://github.com/ne-bknn)
-
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&link=https://github.com/ne-bknn)](https://github.com/ne-bknn)
-
-[![Clang](https://img.shields.io/badge/-clang-black?style=for-the-badge&logo=clang&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![LLDB](https://img.shields.io/badge/-LLDB-black?style=for-the-badge&logo=lldb&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![GAS](https://img.shields.io/badge/-GAS-black?style=for-the-badge&logo=gas&link=https://github.com/ne-bknn)](https://github.com/ne-bknn)
+[![Arch](https://img.shields.io/badge/-Arch%20Linux-black?style=for-the-badge&logo=archlinux&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![Zsh](https://img.shields.io/badge/-Zsh-black?style=for-the-badge&logo=zsh&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![NeoVim](https://img.shields.io/badge/-Neovim-black?style=for-the-badge&logo=neovim&link=https://github.com/ne-bknn)](https://github.com/ne-bknn) [![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi&link=https://github.com/ne-bknn)](https://github.com/ne-bknn)
