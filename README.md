@@ -15,7 +15,7 @@
 
 ### Обо мне
 
-- [(Иногда) играю CTF](https://ctftime.org/team/76463), решаю [вебы](https://medium.com/@sprush/volgactf-qualifier-netcorp-2eb072e4d314) и [криптографию](https://cryptohack.org/user/ne_bknn/)
+- [(Иногда) играю CTF](https://ctftime.org/team/76463), решаю [вебы](https://medium.com/@sprush/volgactf-qualifier-netcorp-2eb072e4d314) и [криптографию](https://cryptohack.org/user/ne_bknn/), но больше разрабатываю и администрирую.
 - DevSecOps/AppSec
 - НИЯУ МИФИ, Информационная безопасность '24
 
