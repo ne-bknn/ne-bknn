@@ -65,14 +65,7 @@
 - Инфраструктурная разработка для SPRUSH CTF Finals 2021 в формате A/D, [внутренних](https://t.me/mephictf/451) [вузовских](https://t.me/mephictf/477) [тренировок](https://t.me/mephictf/390) в формате A/D  
 [![Yandex.Cloud](https://img.shields.io/badge/Yandex.Cloud-%2300acee.svg?color=000000&style=for-the-badge&logo=yandex&logoColor=white)](https://github.com/ne-bknn) [![Terraform](https://img.shields.io/badge/Terraform-%2300acee.svg?color=000000&style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/ne-bknn) [![Ansible](https://img.shields.io/badge/Ansible-%2300acee.svg?color=000000&style=for-the-badge&logo=ansible&logoColor=white)](https://github.com/ne-bknn) [![OpenVPN](https://img.shields.io/badge/OpenVPN-%2300acee.svg?color=000000&style=for-the-badge&logo=openvpn&logoColor=white)](https://github.com/ne-bknn)
 
-### Некоторые достижения
-
-#### Школьные олимпиады:
-- :cop: Олимпиада Верченко по компьютерной безопасности, призер.
-- :floppy_disk: Олимпиада НТИ по информационной безопасности (Кибервызов), призер.
-- :neckbeard: Олимпиада Физтех по математике, призер.
-
-#### Студенческие и корпоративные соревнования:
+### Студенческие и корпоративные соревнования:
 - :unamused: Кубок CTF 2020, 3 место
 - :unamused: Кубок CTF 2022, 2 место
 - :atom: AtomSkills (Информационная безопасность) 2021, 1 место
