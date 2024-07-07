@@ -13,4 +13,4 @@
 
 Security Engineer. NRNU MEPhI Information Security, 2024. Retired [CTF player](https://ctftime.org/team/76463) and organizer. I use Arch btw.
 
-My [neovim config](https://gist.github.com/ne-bknn/558c62c52a68bb52aa0b487b90fb33cf).
+[![My neovim config](https://img.shields.io/badge/-Neovim_config-black?style=for-the-badge&logo=neovim&link=https://github.com/ne-bknn)]([https://github.com/ne-bknn](https://gist.github.com/ne-bknn/558c62c52a68bb52aa0b487b90fb33cf))
